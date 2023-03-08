@@ -1,0 +1,2 @@
+defmodule Memorizer do
+end
